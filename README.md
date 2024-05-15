@@ -42,3 +42,5 @@ The Weekly Newsletter Service is a project designed to deliver curated big data 
 
 ---
 
+**Outputs**
+![image](https://github.com/KRISHNASAIRAJ/Weekly_NewsLetter_Service/assets/90061814/13da2417-fcde-4a97-a1d6-7516ca2b72fa)
